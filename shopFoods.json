@@ -1,0 +1,156 @@
+[
+    
+    {
+        "store": "MCDonald's",
+        "name": "МакЧікен",
+        "price": 175.00,
+        "img": "MCDonalds/burg1.avif"
+    },
+    {
+        "store": "MCDonald's",
+        "name": "Біг Мак",
+        "price": 205.00,
+        "img": "MCDonalds/burg2.avif"
+    },
+    {
+        "store": "MCDonald's",
+        "name": "Дабл Чізбургер",
+        "price": 97.00,
+        "img": "MCDonalds/burg3.avif"
+    },
+    {
+        "store": "MCDonald's",
+        "name": "Чікен Рол",
+        "price": 114.00,
+        "img": "MCDonalds/roll.avif"
+    },
+    {
+        "store": "MCDonald's",
+        "name": "МІКС ЧІКЕН БОКС",
+        "price": 225.00,
+        "img": "MCDonalds/mixBox.png"
+    },
+   
+    {
+        "store": "MCDonald's",
+        "name": "Картопля Фрі",
+        "price": 42.00,
+        "img": "MCDonalds/fri.avif"
+    },
+    {
+        "store": "MCDonald's",
+        "name": "МАКФЛУРІ",
+        "price": 77.00,
+        "img": "MCDonalds/fluri1.avif"
+    },
+    {
+        "store": "MCDonald's",
+        "name": "МАКСАНДІ",
+        "price": 60.00,
+        "img": "MCDonalds/maskandi.png"
+    },
+    {
+        "store": "MCDonald's",
+        "name": "Айс Лате",
+        "price": 59.00,
+        "img": "MCDonalds/aicLatte.png"
+    },
+    {
+        "store": "MCDonald's",
+        "name": "Капучино",
+        "price": 59.00,
+        "img": "MCDonalds/capuchinno.avif"
+    },
+    {
+        "store": "MCDonald's",
+        "name": "Фанта",
+        "price": 31.00,
+        "img": "./MCDonalds/fanta.png"
+    },
+    {
+        "store": "MCDonald's",
+        "name": "МАКШЕЙК ВИШНЯ",
+        "price": 71.00,
+        "img": "MCDonalds/milk1.avif"
+    },
+    {
+        "store": "MCDonald's",
+        "name": "МАКШЕЙК Шоколад",
+        "price": 71.00,
+        "img": "MCDonalds/milk2.avif"
+    },
+    {
+        "store": "MCDonald's",
+        "name": "МАКШЕЙК ПОЛУНИЦЯ",
+        "price": 71.00,
+        "img": "MCDonalds/milk3.avif"
+    },
+    {
+        "store": "MCDonald's",
+        "name": "МАКШЕЙК ВАНІЛЬ",
+        "price": 71.00,
+        "img": "MCDonalds/milk4.avif"
+    },
+   
+    {
+        "store": "CFS",
+        "name": "Бакет",
+        "price": 262.00,
+        "img": "CFS/BacketOrig.png"
+    },
+    {
+        "store": "CFS",
+        "name": "ШЕФБУРГЕР",
+        "price": 90.00,
+        "img": "CFS/shefBur.png"
+    },
+    {
+        "store": "CFS",
+        "name": "ЗІНГЕР",
+        "price": 90.00,
+        "img": "CFS/zingerBur.png"
+    },
+    {
+        "store": "CFS",
+        "name": "ДАБЛ ЧІКЕН",
+        "price": 125.00,
+        "img": "CFS/dablChicken.jpg.png"
+    },
+    {
+        "store": "Big Burger",
+        "name": "Лапша з креветкою",
+        "price": 225.00,
+        "img": "BigBurger/Lapsha1.avif"
+    },
+    {
+        "store": "Big Burger",
+        "name": "Лапша з куркою",
+        "price": 175.00,
+        "img": "BigBurger/Lapsha2.avif"
+    },
+    {
+        "store": "Big Burger",
+        "name": "Лапша з овочами",
+        "price": 125.00,
+        "img": "BigBurger/Lapsha3.avif"
+    },
+    {
+        "store": "Burger Pizza Loft",
+        "name": "Паста Карбонара",
+        "price": 149.00,
+        "img": "BurgerPizzaLoft/Lapsha1.avif"
+    },
+    {
+        "store": "Burger Pizza Loft",
+        "name": "Чікен Гранд Філе",
+        "price": 155.00,
+        "img": "BurgerPizzaLoft/burg1.avif"
+    },
+    {
+        "store": "Burger Pizza Loft",
+        "name": "Бургер Цезар-Фреш",
+        "price": 150.00,
+        "img": "BurgerPizzaLoft/burg2.avif"
+    }
+   
+]
